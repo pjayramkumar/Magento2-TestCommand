@@ -6,14 +6,14 @@ This is module provide sample test command with argument and option to create CM
 Installation 
 --------------
 
-- php bin/magento module:enable Elightwalk_SampleCommand
-- php bin/magento setup:upgrade
-- php bin/magento setup:di:compile
+- ### php bin/magento module:enable Elightwalk_SampleCommand
+- ### php bin/magento setup:upgrade
+- ### php bin/magento setup:di:compile
 
 Module Commands 
 --------------
 
-- php bin/magento create:cms_page hellopage -t "Hello Page"
+- ### php bin/magento create:cms_page hellopage -t "Hello Page"
 
 
 Troubleshoot 
