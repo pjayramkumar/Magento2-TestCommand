@@ -19,7 +19,8 @@ Module Commands
 Troubleshoot 
 --------------
 
-- If you facing merory issue during the above commands follow to add params in the command -d memory_limit=-1 for example php bin/magento -d memory_limit=-1 setup:upgrade
+- If you facing merory issue during the above commands follow to add params in the command -d memory_limit=-1.
+for example php bin/magento -d memory_limit=-1 setup:upgrade
 
 
 Help & Contact  
